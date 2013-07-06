@@ -1,6 +1,6 @@
 dotfiles.git
 ============
-Forked by Keinall Caddle for experimental use 
+Forked by Keinall for experimental use 
 during the Startup Engineering coursera course thingy.
 
 "Never let a Nu get you down!"
