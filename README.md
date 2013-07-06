@@ -1,5 +1,13 @@
 dotfiles.git
 ============
+Forked by Keinall Caddle for experimental use 
+during the Startup Engineering coursera course thingy.
+
+"Never let a Nu get you down!"
+(makes more sense if you've played Chrono Trigger...)
+
+Old readme follows:
+
 Clone and run this on a new EC2 instance running Ubuntu 12.04.2 LTS to
 configure your `bash` and `emacs` development environment as follows:
 
